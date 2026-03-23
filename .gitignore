@@ -1,0 +1,34 @@
+# Dependencies
+node_modules/
+venv/
+env/
+__pycache__/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Logs
+*.log
+logs/
+npm-debug.log*
+
+# Temporary files
+*.tmp
+.cache/
+temp/
+tmp/
+
+# Test coverage
+coverage/
+.nyc_output/
+
+# Compiled files
+*.pyc
+*.class
+*.jar
